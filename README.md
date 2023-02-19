@@ -18,7 +18,7 @@ LSA is meant to run on AWS Lambda in order not to depend on personal virtual mac
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-![LSA_Bot](https://drive-render.corp.amazon.com/view/delgjr@/Images%20%20-%20Projects/LSA_Bot.JPG)
+![LSA_Bot](https://github.com/KMN43/lambda_LargeShipment/blob/main/LSA_Bot.JPG?raw=true)
 
 <!-- USAGE EXAMPLES -->
 ## Usage
