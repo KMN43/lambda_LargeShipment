@@ -18,7 +18,7 @@ LSA is meant to run on AWS Lambda in order not to depend on personal virtual mac
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-[![Product Name Screen Shot][product-screenshot]](https://drive-render.corp.amazon.com/view/delgjr@/Images%20%20-%20Projects/LSA_Bot.JPG)
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 <!-- USAGE EXAMPLES -->
 ## Usage
