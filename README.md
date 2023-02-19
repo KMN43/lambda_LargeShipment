@@ -1,4 +1,4 @@
-<span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">INSPIRATION DAY</span>
+<span style="color: #f2cf4a; font-family: 'Amazon Ember', sans-serif;">
 
 # Outbound Large Shipment Alert
 
@@ -46,4 +46,4 @@ Jorge Casas (DELGJR) - [Mail](delgjr@amazon.com)
 Project Link: [LSA_Project](https://github.com/KMN43/lambda_LargeShipment)
 
 
-
+</span>
